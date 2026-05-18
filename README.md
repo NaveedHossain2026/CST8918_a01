@@ -1,4 +1,4 @@
-# CST8918 A1
+# CST8918 LAB-A01 Weather App
 
 ### Screenshots
 
